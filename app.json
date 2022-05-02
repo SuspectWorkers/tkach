@@ -1,0 +1,14 @@
+{
+    "name": "Tkach",
+    "description": "Real Tkach",
+    "keywords": ["Kach of the world"],
+    "env": {
+        "onevv": {
+            "description": "real one kach",
+            "value": "1"
+        }
+    },
+    "website": "https://github.com/SuspectWorkers/tkach",
+    "repository": "https://github.com/SuspectWorkers/tkach",
+    "stack": "container"
+}
